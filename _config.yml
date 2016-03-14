@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8D0A8'
+    - '#000000'
+    - '#808078'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.6383132201851471
+  lightness: 0.33010617760555516
+  rhythmicContrast: 0.8486776499738315
+  saturation: 0.4250723548101457
+cta: {}
+layout_spectrum: 0.517595280128293
+name: lisa
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.08350467570413078
